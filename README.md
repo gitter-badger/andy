@@ -1,5 +1,7 @@
 # Andy.scss: Open-Source Collection of Sass Mixins.
 
+[![Join the chat at https://gitter.im/SassySuit/andy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SassySuit/andy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Current Version: 1.1**
 
 Homepage: [http://gillesbertaux.com/andy](http://gillesbertaux.com/andy)
